@@ -1,0 +1,17 @@
+{
+  "Tomato___Healthy": {
+    "plant": "Tomato",
+    "disease": "Healthy",
+    "cure": "No action needed. Keep it healthy!"
+  },
+  "Tomato___Early_blight": {
+    "plant": "Tomato",
+    "disease": "Early Blight",
+    "cure": "Remove infected leaves. Apply copper-based fungicide."
+  },
+  "Tomato___Late_blight": {
+    "plant": "Tomato",
+    "disease": "Late Blight",
+    "cure": "Destroy affected plants. Use fungicides with mancozeb."
+  }
+}
